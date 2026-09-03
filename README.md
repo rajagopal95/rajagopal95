@@ -43,30 +43,29 @@ class Rajagopal:
 
 <div align="center">
 
-<b>Robotics & Navigation</b><br>
-<img src="https://img.shields.io/badge/-22314E?style=flat-square&logo=ros&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-00979D?style=flat-square&logo=arduino&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-A22846?style=flat-square&logo=raspberrypi&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-black?style=flat-square&logo=gazebo&logoColor=orange" height="40"/>
-<img src="https://img.shields.io/badge/-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-76B900?style=flat-square&logo=nvidia&logoColor=white" height="40"/>
+<b>Robotics & Navigation</b><br><br>
+<img src="https://img.shields.io/badge/-22314E?style=for-the-badge&logo=ros&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/-FF8000?style=for-the-badge&logo=gazebo&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="60"/>
 
 <br><br>
 
-<b>CAD & Simulation</b><br>
-<img src="https://img.shields.io/badge/-E4292F?style=flat-square&logo=solidworks&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-black?style=flat-square&logo=autodesk&logoColor=orange" height="40"/>
-<img src="https://img.shields.io/badge/-black?style=flat-square&logo=rviz&logoColor=white" height="40"/>
+<b>CAD & Simulation</b><br><br>
+<img src="https://img.shields.io/badge/-E4292F?style=for-the-badge&logo=solidworks&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" height="60"/>
 
 <br><br>
 
-<b>Languages & Tools</b><br>
-<img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-FCC624?style=flat-square&logo=linux&logoColor=black" height="40"/>
-<img src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="40"/>
+<b>Languages & Tools</b><br><br>
+<img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="60"/>
+<img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="60"/>
+<img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="60"/>
 
 </div>
 
