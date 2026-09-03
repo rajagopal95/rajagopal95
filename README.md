@@ -4,7 +4,7 @@
 
 ### ROS2 · Autonomous Robotics · AI Systems
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Robot+Operator+Trainee+%40+Spotless+AI+Robotics;Deploying+Hospital+Disinfection+Robots-as-a-Service;Nav2+%7C+SLAM+%7C+Autonomous+Navigation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4A9EFF&center=true&vCenter=true&width=800&lines=Robot+Operator+Trainee+%40+Spotless+AI+Robotics;Deploying+Hospital+Disinfection+Robots-as-a-Service;Nav2+%7C+SLAM+%7C+Autonomous+Navigation)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajagopal95.github.io/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-gopal-833145295)
