@@ -19,12 +19,6 @@
 
 ---
 
-### 🏆 Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rajagopal95&theme=onedark&no-frame=true&row=1&column=7)
-
----
-
 ### About Me
 
 ```python
@@ -46,6 +40,21 @@ class Rajagopal:
 ---
 
 ### 🛠️ Tech Stack
+
+<div align="center">
+
+![](https://img.shields.io/badge/-22314E?style=flat-square&logo=ros&logoColor=white)
+![](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-black?style=flat-square&logo=gazebo&logoColor=orange)
+![](https://img.shields.io/badge/-black?style=flat-square&logo=solidworks&logoColor=E4292F)
+![](https://img.shields.io/badge/-black?style=flat-square&logo=raspberrypi&logoColor=A22846)
+![](https://img.shields.io/badge/-black?style=flat-square&logo=arduino&logoColor=00979D)
+![](https://img.shields.io/badge/-000000?style=flat-square&logo=linux&logoColor=FCC624)
+![](https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-black?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+</div>
+
 
 **ROS / Navigation**
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
