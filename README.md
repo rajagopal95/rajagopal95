@@ -4,7 +4,7 @@
 
 ### ROS2 · Autonomous Robotics · AI Systems
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Robot+Operator+Trainee+%40+Spotless+AI+Robotics;Building+Autonomous+Robots+for+Hospitals;Nav2+%7C+SLAM+%7C+Multi-Robot+Systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Robot+Operator+Trainee+%40+Spotless+AI+Robotics;Deploying+Hospital+Disinfection+Robots-as-a-Service;Nav2+%7C+SLAM+%7C+Autonomous+Navigation)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajagopal95.github.io/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-gopal-833145295)
@@ -34,13 +34,13 @@ class Rajagopal:
     location   = "Salem, Tamil Nadu, India"
 
     focus = [
+        "Hospital Disinfection Robots-as-a-Service (RaaS)",
         "Autonomous Navigation (Nav2)",
         "SLAM & Localization (AMCL, gmapping, cartographer)",
-        "Multi-Robot / Swarm Coordination",
-        "AMR Deployment & Commissioning",
+        "AMR Deployment, Commissioning & Field Support",
     ]
 
-    currently_building = "Decentralized multi-robot coordination with ROS2"
+    currently_building = "Autonomous disinfection AMRs deployed as a service in hospitals"
 ```
 
 ---
@@ -77,7 +77,8 @@ class Rajagopal:
 
 ### 🤖 Featured Projects
 
-- **Swarm Robotics using ROS2** — Dual-robot system (`bumpy5` & `bumpy7`) on Raspberry Pi with Nav2, namespaced TF frames, zone-based patrol exploration, and decentralized multi-robot coordination.
+- **Hospital Disinfection AMR-as-a-Service** — Deploying and operating ROS2-based autonomous disinfection robots in hospitals; configured Nav2 (Smac/NavFn planners), SLAM, AMCL, and LiDAR-based localization for real-world field commissioning.
+- **Multi-Robot Navigation Testbed (ROS2)** — Dual-robot system (`bumpy5` & `bumpy7`) on Raspberry Pi with Nav2, namespaced TF frames, and zone-based patrol exploration for coverage tasks.
 - **250 kg Payload AMR (ROS2)** — Industrial AMR with Nav2 + AMCL + LiDAR, tuned Smac/NavFn/DWB planners, namespaced multi-robot architecture.
 - **20 kg Payload AMR (ROS1)** — Differential-drive AMR with gmapping SLAM and tuned global/local planners, validated in Gazebo/RViz.
 - **Cafe Butler Robot (ROS2)** — Modular autonomous café service robot with full Nav2 stack and automated Gazebo simulation workflows.
