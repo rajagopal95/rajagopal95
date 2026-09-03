@@ -75,13 +75,20 @@ class Rajagopal:
 
 ---
 
-### 🤖 Featured Projects
+### 🤖 Robotics Projects
 
+- **[bumpy_ws](https://github.com/rajagopal95/bumpy_ws)** — Multi-robot **hardware** fleet (ROS2 AMR); namespaced TF frames, Nav2, SLAM/cartographer, patrol exploration on real Raspberry Pi–based robots.
+- **[swarm_ws_sim](https://github.com/rajagopal95/swarm_ws_sim)** — Multi-robot **simulation** counterpart to bumpy_ws; Gazebo + ROS2 Humble + cartographer SLAM for testing swarm coordination before hardware deployment.
+- **[mybot](https://github.com/rajagopal95/mybot)** — Simulation project comparing SLAM approaches (Cartographer, RTAB-Map, SLAM Toolbox) on a differential-drive robot with Nav2.
+- **[cafe](https://github.com/rajagopal95/cafe)** — Simulated autonomous café service robot that delivers food from the kitchen to the table using the full Nav2 stack in Gazebo.
 - **Hospital Disinfection AMR-as-a-Service** — Deploying and operating ROS2-based autonomous disinfection robots in hospitals; configured Nav2 (Smac/NavFn planners), SLAM, AMCL, and LiDAR-based localization for real-world field commissioning.
-- **Multi-Robot Navigation Testbed (ROS2)** — Dual-robot system (`bumpy5` & `bumpy7`) on Raspberry Pi with Nav2, namespaced TF frames, and zone-based patrol exploration for coverage tasks.
-- **250 kg Payload AMR (ROS2)** — Industrial AMR with Nav2 + AMCL + LiDAR, tuned Smac/NavFn/DWB planners, namespaced multi-robot architecture.
-- **20 kg Payload AMR (ROS1)** — Differential-drive AMR with gmapping SLAM and tuned global/local planners, validated in Gazebo/RViz.
-- **Cafe Butler Robot (ROS2)** — Modular autonomous café service robot with full Nav2 stack and automated Gazebo simulation workflows.
+- **[Akio](https://github.com/rajagopal95/Akio)** — Akio Mini-AMR built on ROS1 Noetic.
+
+### 🧠 ML / Computer Vision Projects
+
+- **[Elephant_Detection](https://github.com/rajagopal95/Elephant_Detection)** — Detects elephant movement near forest boundaries using an MPU6050 sensor and alerts users before the animal crosses; camera + YOLOv8 double-checks the detection, then triggers a deterrent sound to drive the elephant back into the forest.
+- **[Leaf_disease_detection](https://github.com/rajagopal95/Leaf_disease_detection)** — Detects leaf disease from images, classifies the likely cause, and suggests a treatment/solution.
+- **[Waste_plastic_classification](https://github.com/rajagopal95/Waste_plastic_classification)** — ML + hardware project: a 6-DOF robot arm that sorts plastic waste using a YOLOv8-based vision system and forward kinematics.
 
 ---
 
