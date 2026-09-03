@@ -43,44 +43,33 @@ class Rajagopal:
 
 <div align="center">
 
-![](https://img.shields.io/badge/-22314E?style=flat-square&logo=ros&logoColor=white)
-![](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-black?style=flat-square&logo=gazebo&logoColor=orange)
-![](https://img.shields.io/badge/-black?style=flat-square&logo=solidworks&logoColor=E4292F)
-![](https://img.shields.io/badge/-black?style=flat-square&logo=raspberrypi&logoColor=A22846)
-![](https://img.shields.io/badge/-black?style=flat-square&logo=arduino&logoColor=00979D)
-![](https://img.shields.io/badge/-000000?style=flat-square&logo=linux&logoColor=FCC624)
-![](https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-black?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+<b>Robotics & Navigation</b><br>
+<img src="https://img.shields.io/badge/-22314E?style=flat-square&logo=ros&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/-00979D?style=flat-square&logo=arduino&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/-A22846?style=flat-square&logo=raspberrypi&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/-black?style=flat-square&logo=gazebo&logoColor=orange" height="40"/>
+<img src="https://img.shields.io/badge/-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/-76B900?style=flat-square&logo=nvidia&logoColor=white" height="40"/>
+
+<br><br>
+
+<b>CAD & Simulation</b><br>
+<img src="https://img.shields.io/badge/-E4292F?style=flat-square&logo=solidworks&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/-black?style=flat-square&logo=autodesk&logoColor=orange" height="40"/>
+<img src="https://img.shields.io/badge/-black?style=flat-square&logo=rviz&logoColor=white" height="40"/>
+
+<br><br>
+
+<b>Languages & Tools</b><br>
+<img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/-FCC624?style=flat-square&logo=linux&logoColor=black" height="40"/>
+<img src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="40"/>
 
 </div>
 
-
-**ROS / Navigation**
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![ROS1](https://img.shields.io/badge/ROS1%20Noetic-22314E?style=flat-square&logo=ros&logoColor=white)
-![Nav2](https://img.shields.io/badge/Nav2-blue?style=flat-square)
-![Gazebo](https://img.shields.io/badge/Gazebo-orange?style=flat-square&logo=gazebo&logoColor=white)
-
-**Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-
-**CAD & Simulation**
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E4292F?style=flat-square)
-![Fusion360](https://img.shields.io/badge/Fusion%20360-orange?style=flat-square)
-![RViz](https://img.shields.io/badge/RViz-black?style=flat-square)
-
-**Embedded & Hardware**
-![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-**Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
