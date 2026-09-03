@@ -44,7 +44,7 @@ class Rajagopal:
 <div align="center">
 
 <b>Robotics & Navigation</b><br><br>
-<img src="https://img.shields.io/badge/-22314E?style=for-the-badge&logo=ros&logoColor=white" height="900"/>
+<img src="https://img.shields.io/badge/-22314E?style=for-the-badge&logo=ros&logoColor=white" height="90"/>
 <img src="https://img.shields.io/badge/-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="90"/>
 <img src="https://img.shields.io/badge/-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" height="90"/>
 <img src="https://img.shields.io/badge/-FF8000?style=for-the-badge&logo=gazebo&logoColor=white" height="90"/>
