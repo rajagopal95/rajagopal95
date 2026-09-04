@@ -44,31 +44,29 @@ class Rajagopal:
 <div align="center">
 
 <b>Robotics & Navigation</b><br><br>
-<img src="https://img.shields.io/badge/-22314E?style=for-the-badge&logo=ros&logoColor=white" height="90"/>
-<img src="https://img.shields.io/badge/-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="90"/>
-<img src="https://img.shields.io/badge/-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" height="90"/>
-<img src="https://img.shields.io/badge/-FF8000?style=for-the-badge&logo=gazebo&logoColor=white" height="90"/>
-<img src="https://img.shields.io/badge/-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="90"/>
-<img src="https://img.shields.io/badge/-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="65" height="65" alt="ROS"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="65" height="65" alt="Arduino"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="65" height="65" alt="Raspberry Pi"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nvidia/76B900" width="65" height="65" alt="NVIDIA"/>
 
 <br><br>
 
 <b>CAD & Simulation</b><br><br>
-<img src="https://img.shields.io/badge/-E4292F?style=for-the-badge&logo=solidworks&logoColor=white" height="90"/>
-<img src="https://img.shields.io/badge/-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" height="90"/>
+<img src="https://cdn.simpleicons.org/dassaultsystemes/E4292F" width="65" height="65" alt="SolidWorks (Dassault Systèmes)"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/autodesk/FF6600" width="65" height="65" alt="Fusion 360 (Autodesk)"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" width="65" height="65" alt="Gazebo Classic"/>
 
 <br><br>
 
 <b>Languages & Tools</b><br><br>
-<img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" height="90"/>
-<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="90"/>
-<img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" height="90"/>
-<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" height="90"/>
-<img src="https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="90"/>
-<img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="C"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=git&logoColor=F05032" width="65" height="65" alt="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code"/>
 
 </div>
-
 
 ---
 
