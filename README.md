@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4A9EFF&center=true&vCenter=true&width=800&lines=Robot+Operator+Trainee+%40+Spotless+AI+Robotics;Deploying+Hospital+Disinfection+Robots-as-a-Service;Nav2+%7C+SLAM+%7C+Autonomous+Navigation)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajagopal95.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajagopal95.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-gopal-833145295)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopalnnraja@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajagopal95)
