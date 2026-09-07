@@ -83,7 +83,7 @@ class Rajagopal:
 
 - **[bumpy_ws](https://github.com/rajagopal95/bumpy_ws)** — Multi-robot **hardware** fleet (ROS2 AMR); namespaced TF frames, Nav2, SLAM/cartographer, patrol exploration on real Raspberry Pi–based robots.
 - **[swarm_ws_sim](https://github.com/rajagopal95/swarm_ws_sim)** — Multi-robot **simulation** counterpart to bumpy_ws; Gazebo + ROS2 Humble + cartographer SLAM for testing swarm coordination before hardware deployment.
-- **[mybot](https://github.com/rajagopal95/mybot)** — Simulation project comparing SLAM approaches (Cartographer, RTAB-Map, SLAM Toolbox) on a differential-drive robot with Nav2.
+- **[mybot](https://github.com/rajagopal95/mybot)** — Simulation project comparing SLAM approaches (Cartographer, SLAM Toolbox) on a differential-drive robot with Nav2.
 - **[cafe](https://github.com/rajagopal95/cafe)** — Simulated autonomous café service robot that delivers food from the kitchen to the table using the full Nav2 stack in Gazebo.
 - **Hospital Disinfection AMR-as-a-Service** — Deploying and operating ROS2-based autonomous disinfection robots in hospitals; configured Nav2 (Smac/NavFn planners), SLAM, AMCL, and LiDAR-based localization for real-world field commissioning.
 - **[Akio](https://github.com/rajagopal95/Akio)** — Akio Mini-AMR built on ROS1 Noetic.
