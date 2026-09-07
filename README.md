@@ -58,6 +58,15 @@ class Rajagopal:
 
 <br><br>
 
+<b>ML & Computer Vision</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="65" height="65" alt="TensorFlow"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="65" height="65" alt="OpenCV"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="65" height="65" alt="scikit-learn"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="65" height="65" alt="MATLAB"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ultralytics/0B23A9" width="65" height="65" alt="Ultralytics"/>
+
+<br><br>
+
 <b>Languages & Tools</b><br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="C"/>&nbsp;&nbsp;
