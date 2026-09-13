@@ -71,7 +71,7 @@ class Rajagopal:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="C"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=git&logoColor=F05032" width="65" height="65" alt="Git"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=white" width="65" height="65" alt="GitHub"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code"/>
 
